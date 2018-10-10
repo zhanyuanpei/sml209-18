@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 title: Dolores's site 
 desciption: Learning today
 github:
-  page2:page2.html
-  page3:page3.html
+  page2: page2.html
+  page3: page3.html
   
