@@ -1,1 +1,17 @@
-<h1>page4 </h1>
+<h1>HTML PART 2 HOMEWORK </h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" alt="EUROPEAN BIOGEOGRAPHY" >
+<sup>  17th of OCTOBER 2018 </sup>
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+
+<table>.</table>
+<tr><th> Infinitive </th><th> Past simple </th></tr>
+<tr><td> to go </td><td> went </td></tr>
+<tr><td> to have </td><td> had </td></tr>
+<tr><td> to come </td><td> came </td></tr>
+
+<li lang="pl">
