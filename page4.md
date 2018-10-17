@@ -1,4 +1,4 @@
-<p style="color:red;">
+
 <h1>HTML PART 2 HOMEWORK </h1>
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" title="View Image Source">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" alt="image of biogeography of Europe" >
@@ -20,6 +20,6 @@
  </table>
 
 
-<p>Only you deer</p>
+<h2 style:"color:red;">Only you deer</h2>
 
 <li lang="pl">
