@@ -18,6 +18,7 @@
 <tr><td> to come </td><td> came </td></tr>
  </table>
 
-<p style="color:red;" Only you deer </p>
+
+<p style="color:red;"> Only you deer </p>
 
 <li lang="pl">
