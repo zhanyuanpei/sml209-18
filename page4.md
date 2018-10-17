@@ -10,13 +10,14 @@
   <dd>White cold drink</dd>
 </dl>
 
-<p style="color:red;"
+
 <table>
 <tr><th> Infinitive </th><th> Past simple </th></tr>
 <tr><td> to go </td><td> went </td></tr>
 <tr><td> to have </td><td> had </td></tr>
 <tr><td> to come </td><td> came </td></tr>
  </table>
-</p>
+
+<p style="color:red;" Only you deer </p>
 
 <li lang="pl">
