@@ -20,6 +20,6 @@
  </table>
 
 
-<h2 style="colour:red;">Only you deer</h2>
+<p style="colour=red;">Only you deer</p>
 
 <li lang="pl">
