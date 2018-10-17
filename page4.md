@@ -1,8 +1,8 @@
 
 <h1>HTML PART 2 HOMEWORK </h1>
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" title="View Image Source">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" alt="image of biogeography of Europe" >
-  </a>
+<img style="width:70%; vertical-align:top; border:1px solid #021a40;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_countries.svg" alt="image of biogeography of Europe" >
+</a>
 <sup>  17th of OCTOBER 2018 </sup>
 <dl>
   <dt>Coffee</dt>
