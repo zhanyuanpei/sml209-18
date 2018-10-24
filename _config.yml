@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Dolores's site 
 desciption: Learning today
 github:
-  page2: grammar.html
-  page3: vocabulary.html
-  page4: page4.html
-  page5: page5.html
+  grammer: grammer.html
+  vocabulary: vocabulary.html
+  spell: spell.html
+  reading: reading.html
