@@ -6,19 +6,6 @@
 
 <iframe src="https://h5p.org/h5p/embed/356428" width="1090" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-.btn2 {
-  border-radius: 4px;
-  background-color:#3a6186;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 16px;
-  padding: 10px;
-  width: auto;
-  cursor: pointer;
-  margin: 5px;
-}
-
 
 
 
