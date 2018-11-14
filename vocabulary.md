@@ -11,7 +11,6 @@
 </p>
 <div style="clear:both;"> </div>
 
-
 .btn2 {
   border-radius: 4px;
   background-color:#3a6186;
@@ -24,3 +23,4 @@
   cursor: pointer;
   margin: 5px;
 }
+
