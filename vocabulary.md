@@ -10,3 +10,17 @@
 <a style="float:right;" href="exercise-1.html"> Go to Exercise 1 </a>
 </p>
 <div style="clear:both;"> </div>
+
+
+.btn2 {
+  border-radius: 4px;
+  background-color:#3a6186;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  width: auto;
+  cursor: pointer;
+  margin: 5px;
+}
