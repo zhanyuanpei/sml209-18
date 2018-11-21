@@ -23,6 +23,5 @@ The map to the left shows the biogeography of Europe. Biogeography is the study 
  </table>
 
 
-<p style="colour=red;">text blah blah blah</p>
 
 <li lang="pl">
