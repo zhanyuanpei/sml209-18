@@ -59,7 +59,7 @@ In China, there are lots of dialects, and over eighty dialects can’t communica
 
 <h1>About Chinese Traditional Festivals </h1>
 
-<img  https://cdntct.com/tct/pic/china-guide/festivals/lantern-festival-8.jpg" alt="image of Traditional Festivals" >
+<img  src="https://www.eastwestbank.com/ReachFurther/NewsArticleStore/71/Must-Knows%20for%20Doing%20Business%20During%20Chinese%20New%20Year%20Full.jpg" alt="image of China" >
 
 <p>
   
