@@ -1,7 +1,7 @@
 
 <h1>About China</h1>
 
-<img  src="https://en.wikipedia.org/wiki/China#/media/File:China_linguistic_map.jpg" alt="image of China" >
+<img  src="https://upload.wikimedia.org/wikipedia/commons/5/55/China_linguistic_map.jpg" alt="image of China" >
 
 <p>
 
