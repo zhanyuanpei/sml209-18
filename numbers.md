@@ -41,18 +41,6 @@ That means apart from zero to ten, the only words you need to know to be able to
 100,000,000 - 亿 - yì 
 
 
-Did you know? Because the Chinese characters for numbers are very simple, there is a whole different set of complex Chinese numbers used on bank notes to prevent counterfeit bills.
-READING CHINESE NUMBERS OUT LOUD
-It can be hard to get comfortable using the Chinese number system! The number system can be misleadingly simple because we forget how quickly we are used to rattling off numbers in our own native language. With the added difficulty of Chinese tones, saying Chinese numbers out loud can prove to be challenging. “一 (yī)” means “one,” but “亿（yì）” means “hundred million.” They are just one tone apart.
-
-
-Here are some additional pointers: 
-If the number contains a zero in the middle, the zero has to be read aloud, as in 一百零一 (yībǎilíngyī) for 101. In formal Chinese, the number of tens must always be expressed, as in 一百一十 (yībǎiyīshí) for 110. Colloquially, you can say “一百二 (yībǎièr）” for “120” instead of “一百二十 (yībǎièrshí)” and “一百三(yībǎisān)” for “130.” However, “103” is read “一百零三 (yībǎilíngsān).” 
-In spoken Chinese, the word “一” for “one” can also be read as “yāo,” especially when reciting a phone number or other string of numbers.
-Once you think you have one through ten down, practice the number system with a random string of numbers, rather than counting in order from one to a hundred. This is a great way to improve your listening and speaking skills, since going through numbers 1 through 99 will cover most tone combinations.
-WHEN TO USE: 二 (ÈR) VS 两 (LIǍNG) 
-There are two forms for the word for “two” in Chinese. The first is “二 (èr)”, which is used in ordinal situations and phone numbers. The second is “两 (liǎng),” which is used for two when counting things. For example, two people = “两个人 (liǎng).” It is also used to count large numbers such as two hundred (两百), two thousand (两千). However, “twenty” must always be read “二十（èrshí）.” 
-Counting things in Chinese is a whole other subject, because unlike English, Chinese has “measure words” or “counters.” You can read our blog post on the topic here. 
 
 TACKLING LARGE NUMBERS
 Dealing with large numbers can be difficult, not because the Chinese numbers themselves are hard to grasp, but because native English speakers have to start thinking of large numbers in groups of four zeroes rather than three zeroes. In order to really make large numbers stick, use figures that you are familiar with to tie meaning to each number you are learning. For example, you might go with Kobe’s annual salary, the population of the United States, population of China, or whatever it is that has meaning for you. This strategy can give you something to fall back on, should you stumble across a difficult number.
