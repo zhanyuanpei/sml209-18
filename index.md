@@ -1,7 +1,7 @@
 <h1> welcome </h1>
 <p> 
   
-  My “Home” page will contain the following information:
+
 •	Target audience: people who want to learn Chinese, especially for beginners. 
 •	Target language: Chinese. 
 •	Target topic: learn Chinese characters, vocabulary, numbers, and some basic information about China.  
