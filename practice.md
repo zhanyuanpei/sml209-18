@@ -18,6 +18,6 @@
 
 <audio controls>
   
-  <source src="http://www.chinese-ilab.com/Greetings/Greetings_iPod.m4v" type="audio/mpeg">
+  <source src="http://kidschinesepodcast.com/audio/lesson/003-Lesson-3_Greeting-Part-I.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
