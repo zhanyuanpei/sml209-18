@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
-title: Dolores's site 
-description: Learning today
+title: Learn Chinese Today
+description: Learn Chinese with Dolores
 github:
-  page2: grammar.html
+  page2: phrases.html
   page3: vocabulary.html
-  page4: spelling.html
-  page5: reading.html
+  page4: about-china.html
+  page5: numbers.html
   page6: practice.html
