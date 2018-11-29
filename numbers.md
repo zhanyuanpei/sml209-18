@@ -1,8 +1,9 @@
 <h1>Numbers and Plurals</h1>
 
 <h2>Numbers</h2>
-https://www.youtube.com/watch?v=2eLP3FuuEVs 
-<p>CHINESE NUMBERS ARE EASIER THAN ENGLISH NUMBERS
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2eLP3FuuEVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<p>
+CHINESE NUMBERS ARE EASIER THAN ENGLISH NUMBERS
 Unlike English, The Chinese number system is very logical and straightforward. It doesn’t require you to learn unique words for multiples of ten such as twenty, thirty, forty, and so on. It also doesn’t require you to add “-teen” after numbers that come after ten. 
 
 For example, twenty-five is expressed as 二十五 (èrshíwǔ), or “two-ten-five”. “Fourteen” is expressed as 十四 (shísì) or “ten-four.”
@@ -44,56 +45,46 @@ Did you know? Because the Chinese characters for numbers are very simple, there 
 READING CHINESE NUMBERS OUT LOUD
 It can be hard to get comfortable using the Chinese number system! The number system can be misleadingly simple because we forget how quickly we are used to rattling off numbers in our own native language. With the added difficulty of Chinese tones, saying Chinese numbers out loud can prove to be challenging. “一 (yī)” means “one,” but “亿（yì）” means “hundred million.” They are just one tone apart.
 
+
 Here are some additional pointers: 
-
 If the number contains a zero in the middle, the zero has to be read aloud, as in 一百零一 (yībǎilíngyī) for 101. In formal Chinese, the number of tens must always be expressed, as in 一百一十 (yībǎiyīshí) for 110. Colloquially, you can say “一百二 (yībǎièr）” for “120” instead of “一百二十 (yībǎièrshí)” and “一百三(yībǎisān)” for “130.” However, “103” is read “一百零三 (yībǎilíngsān).” 
-
 In spoken Chinese, the word “一” for “one” can also be read as “yāo,” especially when reciting a phone number or other string of numbers.
-
 Once you think you have one through ten down, practice the number system with a random string of numbers, rather than counting in order from one to a hundred. This is a great way to improve your listening and speaking skills, since going through numbers 1 through 99 will cover most tone combinations.
-
 WHEN TO USE: 二 (ÈR) VS 两 (LIǍNG) 
 There are two forms for the word for “two” in Chinese. The first is “二 (èr)”, which is used in ordinal situations and phone numbers. The second is “两 (liǎng),” which is used for two when counting things. For example, two people = “两个人 (liǎng).” It is also used to count large numbers such as two hundred (两百), two thousand (两千). However, “twenty” must always be read “二十（èrshí）.” 
-
 Counting things in Chinese is a whole other subject, because unlike English, Chinese has “measure words” or “counters.” You can read our blog post on the topic here. 
 
 TACKLING LARGE NUMBERS
 Dealing with large numbers can be difficult, not because the Chinese numbers themselves are hard to grasp, but because native English speakers have to start thinking of large numbers in groups of four zeroes rather than three zeroes. In order to really make large numbers stick, use figures that you are familiar with to tie meaning to each number you are learning. For example, you might go with Kobe’s annual salary, the population of the United States, population of China, or whatever it is that has meaning for you. This strategy can give you something to fall back on, should you stumble across a difficult number.
 
 These are some figures that work for me:
-
 20,000 Leagues Under the Sea                                          
 20,000 = 两万 （liǎng wàn）
-
 Wayne Rooney makes £260,000 a week
 260,000 = 二十六万 (èrshíliùwàn)
-
 One million =一百万 (yībǎiwàn)
-
 Kobe’s annual salary before he retired was $25 million 
 25 million = 两千五百万 (liǎngqiānwǔbǎiwàn)
-
 2014 census of the US population was 318 million
 318 million = 三亿一千八百万 (sānyìyīqiānbābǎiwàn)
-
 2013 census of the Chinese population was 1.357 billion      
 1.357 billion =十三亿五千七百万(shísānyìwǔqiānqībǎiwàn)
 
 It’s important not to underestimate the value in perfecting your ability to deal with numbers. Although it takes a lot of repetition, once you get your numbers down, you will find a great improvement in your listening and speaking skills! 
 
-Have trouble with your Chinese numbers? Tell us about your experience in the comments below.</p>
+</p>
 
 <h2>Introduction to plurals</h2>
-<p>1. Defining a Number
-One of the more concrete ways to turn something from the singular to the plural would be identifying its specific number. So, saying “six cats” as opposed to “a cat.” Grammatical numbers must be followed by the appropriate measure word (more on that below), before saying or writing the noun.
+<p>
+ 1. Defining a Number (One of the more concrete ways to turn something from the singular to the plural would be identifying its specific number. So, saying “six cats” as opposed to “a cat.” Grammatical numbers must be followed by the appropriate measure word (more on that below), before saying or writing the noun.)
+
+
 
 Number + Measure Word + Noun
 
+
+
 Here’s the breakdown of that formula:
-
-Numbers
-Before getting into the specifics of this plural form, let’s review our numbers.
-
 You learned them as a beginner when you were taught how to count and how to tell time. You might even know some Chinese number slang. Whatever the case is, here’s a list of numbers to refresh your memory. We’ll skip ahead to bigger numbers, to show you how those work in case you haven’t come across them yet. If you need a more thorough rundown, here’s a list of Chinese numbers one to 100.
 
 十 (shí) — 10
@@ -197,10 +188,13 @@ If this all seems a bit overwhelming, FluentU is a practical but fun tool to sta
 
 It’s an entertaining way to absorb Chinese measure words and lots of other vocabulary the way native speakers actually use it—without the frustration of rote memorization. Check out the video library for free with a FluentU trial.
 
-2. Using Ambiguous Plurals
-Now that you know that “groups” and “packs” don’t count as ambiguous plurals, what does? An ambiguous plural is anything that cannot be modified by a grammatical number, like “some” or “many.” Thus, the formula goes:
+2. Using Ambiguous Plurals (Now that you know that “groups” and “packs” don’t count as ambiguous plurals, what does? An ambiguous plural is anything that cannot be modified by a grammatical number, like “some” or “many.” ) 
+
+
 
 Ambiguous Plural + Noun
+
+
 
 Let’s take a look at those ambiguous plurals and their usages:
 
@@ -211,6 +205,7 @@ Let’s take a look at those ambiguous plurals and their usages:
 一些 (yī xiē) —a few, some
 
 一些错误 (yī xiē cuò wù) — a few mistakes
+
 
 Despite there being a number in 一些 (yī xiē), meaning “a few,” it doesn’t function as a grammatical number. Besides, no one would ever say, “two fews.”
 
@@ -228,8 +223,7 @@ This measure word literally means “not a few.”
 
 很多猫 (hěn duō māo) — a lot of cats
 
-3. Adding 们 (Men)
-When it comes to nouns and pronouns specifically pertaining to people, you can simply attach 们 (men) to them, so they would look like this:
+3. Adding (When it comes to nouns and pronouns specifically pertaining to people, you can simply attach 们 (men) to them)
 
 我 (wǒ) — I/me → 我们 (wǒ men) — we/us
 
@@ -242,6 +236,8 @@ When it comes to nouns and pronouns specifically pertaining to people, you can s
 In turn, adding 们 (men) “conjugates” the verb when used in a sentence. And I use quotations because the verb itself doesn’t actually change in Chinese—it’s just the meaning that’s altered to the verb’s plural version. Ah, the nuances of the Chinese language.
 
 You can also add 们 (men) to nouns like “teacher,” “student,” “police officer,” etc. However, when a noun is the object of a sentence, 们 (men) isn’t completely necessary to make it plural. Some think it sounds strange to add it, so it’s normally omitted in everyday speech. It’s a personal preference, really, as the rest of the sentence usually provides enough contextual evidence to indicate a plural noun.
+
+
 
 Check out these two sentences:
 
