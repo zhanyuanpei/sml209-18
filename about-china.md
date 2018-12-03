@@ -4,16 +4,21 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/5/55/China_linguistic_map.jpg" alt="image of China" >
 
 <p>
-The People's Republic of China, abbreviated as China, is situated in the east of Asia faces the Pacific Ocean in the sea,  and borders on 14 countries, North Korea, Russia, Mongolia Kazakhstan, Kyrghyzstan, Kajikistan, Pakistan, Afghanistan, India, Nepal, Bhutan, Vietnam, Laos, and Burma.
+
+The People's Republic of China, abbreviated as China
+situated in the east of Asia faces the Pacific Ocean in the sea
+ China has a land area of about 9, 634,057 square kilometers, with a land coastline of 18,000 kilometers
+ It is the third largest country, in term of land area
+ Its northernmost part is located on the central line of the main course of the Heilong River and north of the Mohe River in Heilongjiang Province
+ its southernmost tip is Zengmu Reef of the Nansha Islands of the South China Sea. 
+ 
+Its sea and land location is beneficial to China's economy, trading with neighboring countries though land routes, and with other countries with marine routes. 
+In the ancient China, there two famous trading roads, the Silk Road and Maritime Silk Road. In recent years, this two roads are restarted and China has made bountiful investment agreements with related countries which are beneficial to all parties. It is firmly believed that this restart will make great contributions to China's trading with countries along the trading roads and to world economy.
  
 
-China has a land area of about 9, 634,057 square kilometers, with a land coastline of 18,000 kilometers, and has thousands of islands including the South China Sea Islands. It is the third largest country, in term of land area. Its northernmost part is located on the central line of the main course of the Heilong River and north of the Mohe River in Heilongjiang Province; its southernmost tip is Zengmu Reef of the Nansha Islands of the South China Sea. The two sites are 5,500 km apart. Its easternmost part is at the confluence of the Heilong and Wusuli rivers; its westernmost tip is on the Pamirs in the Xinjiang Uygur Autonomous Region. The span of the east and the west is 5,000 km (about 62 Latitudinal degrees). Taiwai island is the largest island, and Yangtze River is the longest river, and  the Yellow River is the second longest river and also the mother river.
- 
-
-Its sea and land location is beneficial to China's economy, trading with neighboring countries though land routes, and with other countries with marine routes. In the ancient China, there two famous trading roads, the Silk Road and Maritime Silk Road. In recent years, this two roads are restarted and China has made bountiful investment agreements with related countries which are beneficial to all parties. It is firmly believed that this restart will make great contributions to China's trading with countries along the trading roads and to world economy.
- 
-
-In such a large territory, there are several kinds of climate, temperate continental climate, temperate monsoon and subtropical monsoon. Influenced by those climates, China, generally , is hot in summer and cold in winter, but specific temperature may be different in different regions. Spring and summer are rainy season, giving plenty rainfalls, which are an important source for China's freshwater resources.
+there are several kinds of climate: temperate continental climate / temperate monsoon /  subtropical monsoon. 
+Influenced by those climates, China, generally , is hot in summer and cold in winter, but specific temperature may be different in different regions.
+Spring and summer are rainy season, giving plenty rainfalls, which are an important source for China's freshwater resources.
 
 National day: October 1st .  The People's Republic of China  was founded on September 21, 1949, with a celebration on October 1st, 1949, thus October 1st becomes the national day, and the seven-day national holiday starts from October 1st .
  
