@@ -88,3 +88,9 @@ The Double Ninth Festival (Chongyang Festival): 9th day of the 9th lunar month, 
 During festivals periods, hundreds of millions of migrant workers will return home and reunite with families, while millions of other Chinese would have a travel within the country. For this, every means of transportation would be quite crowded. Tickets of bus, train, and flight should be brought ahead of time. If you plan to have a trip in China on festival days, it may be necessary to book tour service or hotel well in advance.
 
 </p>
+
+<h1> Small tour about HongKong </h1>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7OpI2stmfSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
