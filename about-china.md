@@ -54,7 +54,9 @@ Weights and measures: China applies the international weight measurement, with t
   
 Chinese (Putonghua or Mandarin) is the official language of China, and it is also the most used language in the world. Chinese is based on northern dialects, and close to Beijing dialect, and it is the official language used in schools, and every Chinese learns it. In daily conversation, people may use dialects or Chinese, but in written course, only Putonghua is used.
  
+</p>
 
+<p>
 In China, there are lots of dialects, and over eighty dialects can’t communicate with each other. Among decades of ethnic groups in China, most ethnic groups have their own dialects. Dialects usually have regional limits. Because of historical and geographical reasons, there are many dialects in the Chinese language, such at Wu, Guangdong and Fujian dialects.
 </p>
 
