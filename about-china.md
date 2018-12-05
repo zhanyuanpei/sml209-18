@@ -68,17 +68,23 @@ In China, there are lots of dialects, and over eighty dialects can’t communica
 China has quite a few major annual traditional festivals. 
 
 Spring Festival (Chinese Lunar New Year by Chinese lunar calendar):late January/mid-February. The spring festival is the most important festival, with a special meaning of family reunion. With the coming of this festival, there are two large “Tide of Return” migrations in China, one is before the festival, and another is after the festival. When the festival is on the corner,  migrant workers return home to celebrate the holiday with their families.
-
+</p>
+<P>
 The Lantern Festival: the fifth day of the first month of Chinese lunar calendar, just after Chinese New Year
-
+</P>
+<P>
 Tomb-sweeping Day (Qingming Festival):  it usually  occurs from April 4th to 6th, and has three-day off. This festival is for the living to give thanks and express their miss to the dead. During the festival, people would  go to sweep the tombs of their ancestors and offer sacrifices.
-
+</P>
+<P>
 Dragon Boat Festival: 5th day of the 5th lunar month. The festival is celebrated for people’s respects paid to Qu Yuan, a great poet and patriot.
-
+</P>
+<P>
 The Mid-autumn Day (Moon Cake Festival): 15th day of the 8th lunar month, usually Sep. or Oct.
-
+</P>
+<P>
 The Double Ninth Festival (Chongyang Festival): 9th day of the 9th lunar month, usually in October
-
+</P>
+<P>
 During festivals periods, hundreds of millions of migrant workers will return home and reunite with families, while millions of other Chinese would have a travel within the country. For this, every means of transportation would be quite crowded. Tickets of bus, train, and flight should be brought ahead of time. If you plan to have a trip in China on festival days, it may be necessary to book tour service or hotel well in advance.
 
 </p>
