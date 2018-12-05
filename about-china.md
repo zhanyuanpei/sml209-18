@@ -15,20 +15,19 @@ situated in the east of Asia faces the Pacific Ocean in the sea
 Its sea and land location is beneficial to China's economy, trading with neighboring countries though land routes, and with other countries with marine routes. 
 In the ancient China, there two famous trading roads, the Silk Road and Maritime Silk Road. In recent years, this two roads are restarted and China has made bountiful investment agreements with related countries which are beneficial to all parties. It is firmly believed that this restart will make great contributions to China's trading with countries along the trading roads and to world economy.
  
+</p>
 
-there are several kinds of climate: temperate continental climate / temperate monsoon /  subtropical monsoon. 
+<p>
+ 
+There are several kinds of climate: temperate continental climate / temperate monsoon /  subtropical monsoon. 
 Influenced by those climates, China, generally , is hot in summer and cold in winter, but specific temperature may be different in different regions.
 Spring and summer are rainy season, giving plenty rainfalls, which are an important source for China's freshwater resources.
 
-National day: October 1st .  The People's Republic of China  was founded on September 21, 1949, with a celebration on October 1st, 1949, thus October 1st becomes the national day, and the seven-day national holiday starts from October 1st .
- 
+</P>
 
-Population: 1.39 billions (2017). China has a permanent population of 1.39 billions in mainland, and has a urbanization rate of 58.52% in 2017. The population of old people at the age of 60 or above amounts to 0.24 billions, accounting for 17.3% of the total population, and population aging is a fact in China.
- 
-
-Calling code: 0086
-
-Top legislature: National People's Congress (NPC)
+<P>
+National day: October 1st .  
+Population: 1.39 billions (2017). 
 
 Location: In East Asia, by the western Pacific Ocean
 
@@ -36,16 +35,14 @@ Territory area: 9.6 million square km, third only to Russia and Canada.
 
 Ethnic group: 56 ethnic groups are a common saying, in China has over 56 ethnic groups. The major groups are like Han nationality, Zhuang nationality, which have a big population, while some ethnic groups have a small population.
 
-Main religions: Buddhism, Taoism, Confucianism and Islam. Buddhism, Taoism and Confucianism are three local religions with thousands of years. Confucianism is the philosophy and wisdom, originated from the teaching of Confucius, a great philosopher and educator in China. The essence of Confucianism has influenced Chinese for a long time and it is one of the most popular religions. Taoism is one of oldest religions, and it values harmony, the harmony between human and nature.
+Main religions: Buddhism, Taoism, Confucianism and Islam.
  
-
 Symbol: Great Wall, Forbidden City (Imperial Palace), dragon, phoenix, panda
 
 Econmic center: Shanghai
 
 Currency: Renmibin (RMB) yuan
  
-
 Weights and measures: China applies the international weight measurement, with two units of g and kg. Still it also has a different traditional measure, with units of “gongjin”, “jin” and “liang”. one gongjin is equal to one  kilogram,  one jin, 500 g, and one liang, 50 g.
 </p>
 
