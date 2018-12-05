@@ -16,7 +16,5 @@ This website is designed for kids, teenagers, adults to learn Mandarin Chinese, 
 4. “Numbers” page: Learn Chinese Number, Introduction to plurals.
 5. “Practice” page: Example Exercises 1: Drag the words, Example Exercises 2: Dialog Cards, Example Exercises 3: Memory game, Example Exercises 4: Direction Dialogue Audio
 A list of resources or tools used：pictures, video clips, audio files, H5P exercise type, YouTube video, contents, articles.
-
-https://drive.google.com/open?id=1ZB-UFGjr4uyOEjC1BSz_PgtFESh5EusS&usp=sharing
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZB-UFGjr4uyOEjC1BSz_PgtFESh5EusS" width="640" height="480"></iframe>
 </p>
