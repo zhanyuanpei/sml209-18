@@ -1,7 +1,11 @@
 <h1> Welcome </h1>
  
   <iframe src="https://www.google.com/maps/d/embed?mid=1ZB-UFGjr4uyOEjC1BSz_PgtFESh5EusS" width="640" height="480"></iframe>
-
+<p>
+ 
+ Student ID: 170607106 
+ The author of this website : Zhanyuan Pei
+ 
 <p>  
   This website is designed for kids, teenagers, adults to learn Mandarin Chinese, these activities help you to learn Chinese listening, and speaking via video clips, audio files, and Chinese Phrases, vocabulary, numbers via video, exercise worksheet, and online exercises. There are five pages: “About China” is for learners to get better understanding of China, languages, and traditional festival, “Useful Phrases” page is for learners to know basic general greetings in Chinese, “Vocabulary” page is for learners to study Chinese characters of Food and Drink, Transport, Places, “Numbers” page introduces the Chinese Number and the Chinese plurals, “Practice” page uses Drag the words, Dialog Cards, Memory game, Direction Dialogue Audio to help audience practice Chinese.
   </p>
